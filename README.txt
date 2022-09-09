@@ -1,4 +1,5 @@
-# Projects
+High School Projects
+
 Board_Game_Table.cpp
 Custom Board Game Table           Fall 2021 - Spring 2022
     Developed software in C++ for custom board game table to predict wait times, change lighting color, track elapsed time, reverse turn order, remove 
