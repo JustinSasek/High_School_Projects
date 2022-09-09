@@ -24,7 +24,6 @@ LiquidCrystal lcd[] = {lcd0, lcd1, lcd2, lcd3, lcd4, lcd5};
 #define buttonCodeLength 5
 const bool remoteCode[] = {1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1};
 
-//https://docs.google.com/spreadsheets/d/1v3NXLPg1XXM_5MRAW2knO9QAXjCgru7Ft2qjg5E2g_k/edit#gid=1350928912
 
 //Colors
 
